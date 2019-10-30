@@ -8,3 +8,9 @@ A basic Repo to learn GitHu
 git clone <your repo url> -b <branch name> <folder name with path>
 ```
 
+> command to amend and signoff
+
+```git
+git commit --amend --signoff
+```
+
